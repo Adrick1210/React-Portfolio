@@ -7,9 +7,9 @@ function Header() {
       <div className="logo">
         <img src="../images/logo-png.jpg" alt="logo" />
       </div>
-      <div className="nav">
+      {/* <div className="nav">
         <a href="#about">About</a>
-      </div>
+      </div> */}
     </div>
   );
 }

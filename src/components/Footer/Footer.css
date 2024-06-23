@@ -1,0 +1,32 @@
+a img {
+    height: 70px;
+    width: 70px;
+}
+
+.footer {
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 50px;
+    max-width: 100%;
+    padding: 0;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    margin-top: 100px;
+}
+
+.footnotes {
+    margin-bottom: 10px;
+}
+
+.links {
+    margin-bottom: 20px;
+}
+
+.link-img {
+    display: flex;
+    gap: 30px;
+}

@@ -1,0 +1,19 @@
+.about {
+    border: 1px solid white;
+    background-color: white;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+
+.text {
+    background-color: white;
+    border: 1px solid black;
+    width: 40%;
+    margin-left: 20px;
+    
+}
+
+p {
+    color: black;
+    text-align: center;
+}
