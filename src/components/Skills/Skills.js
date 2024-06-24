@@ -3,7 +3,7 @@ import "./Skills.css";
 function Skills() {
   return (
     <div className="skill-table">
-      <h1>Skills</h1>
+      <h1>Skills:</h1>
       <div className="table">
         <div className="skill">
           <h2>React.js</h2>
