@@ -1,8 +1,11 @@
-import './Story.css'
+import "./Story.css";
 
 function Story() {
   return (
     <div className="about">
+      <div className="head-shot">
+        <img src="../images/IMG_2053.jpg" alt="head-shot" />
+      </div>
       <div className="text">
         <p>
           With compassion and passion for problem solving, I have dove into the
@@ -16,12 +19,12 @@ function Story() {
         </p>
         <p>
           In web development, I am driven by a desire to create user-friendly
-          experiences that are welcoming and pleasant. My Journey yields a
-          readiness and commitment to continuously learn and improve upon these
-          skills with new languages, latest technologies, and observing the
-          latest trends the industry follows and sets. I believe key attention
-          to detail along with problem solving is absolutely essential in
-          building and maintaining efficient software solutions.
+          experiences that are welcoming and pleasant. My Journey brings a need
+          with readiness and commitment to continuously learn and improve upon
+          these skills with new languages, latest technologies, and observing
+          the latest trends the industry follows and sets. I believe key
+          attention to detail along with problem solving is absolutely essential
+          in building and maintaining efficient software solutions.
         </p>
         <p>
           My goal in the world of development is to show my abilities and

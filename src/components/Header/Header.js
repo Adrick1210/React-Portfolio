@@ -3,13 +3,11 @@ import './Header.css'
 
 function Header() {
   return (
-    <div>
+    <div className="banner">
       <div className="logo">
         <img src="../images/logo-png.jpg" alt="logo" />
       </div>
-      {/* <div className="nav">
-        <a href="#about">About</a>
-      </div> */}
+      <h1>Always looking for problems to solve</h1>
     </div>
   );
 }

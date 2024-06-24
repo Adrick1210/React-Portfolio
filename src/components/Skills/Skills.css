@@ -1,0 +1,19 @@
+.skill-table {
+    margin-top: 50px;
+}
+
+.skill h2 {
+    color: white;
+}
+
+.skill img {
+    height: 80px;
+}
+
+.table {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 20px;
+    justify-items: center;
+    padding: 20px;
+  }

@@ -1,3 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Playwrite+NZ:wght@100..400&display=swap");
+
 img {
-    max-width: 100%;
+  max-width: 100%;
+}
+
+.banner h1 {
+    font-family: "Playwrite NZ", cursive;
 }
